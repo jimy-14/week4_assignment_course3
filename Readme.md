@@ -29,6 +29,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 code for reading "Tidy_data.txt" file:
 
-```data <- read.table(file_path, header = TRUE) 
+```
+data <- read.table(file_path, header = TRUE) 
 View(data)
 ```
