@@ -7,7 +7,7 @@ output: html_document
 
 
 
-## R Markdown
+## Codebook
 This script downloads dplyr package 
 downloads "human_activity_recognition" file in .zip file format
 unzip the file using unzip() function which extracts "UCI HAR Dataset" folder
