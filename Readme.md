@@ -5,7 +5,7 @@ date: "2023-08-16"
 output: html_document
 ---
 
-## R Markdown
+## ReadMe
 
 README
 "UCI HAR Dataset" is set of files provided and needs to be converted to tidy form
