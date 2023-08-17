@@ -78,5 +78,5 @@ independent_tidy_data<- group_by(select_Data,subject_number, activity_code)
 independent_tidy_data<- summarise_all(independent_tidy_data,mean)
 
 #generating a .txt file "Tidy_data.txt" using write.table
-write.table(independent_tidy_data, "Tidy_data.txt")
+write.table(independent_tidy_data, "Tidy_data.txt",row.names=FALSE))
 #long form
